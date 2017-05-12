@@ -6,6 +6,8 @@
   console.log('empty',empty);
 }
 
+//The Array.from() method creates a new Array instance from an array-like or iterable object.
+
 {
   let p=document.querySelectorAll('p');
   let pArr=Array.from(p);
